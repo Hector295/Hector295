@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Héctor Ventura and I'm a Software Development Engineer , from Perú</h2>
+<h2 align="left">Hi 👋! My name is Héctor Ventura and I'm a Software Development Engineer , from Peru</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/Hector295/Hector295/blob/main/.github/workflows/bachicha.jpeg"  />
 
 ###
 
